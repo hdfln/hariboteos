@@ -1,0 +1,3 @@
+[submodule "z_tools"]
+	path = z_tools
+	url = https://github.com/HariboteOS/z_tools_linux.git
