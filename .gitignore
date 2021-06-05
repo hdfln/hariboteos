@@ -1,0 +1,12 @@
+*.img
+*.lst
+*.bin
+*.sys
+*.bim
+*.gas
+*.hrb
+*.map
+*.obj
+bootpack.nas
+*.bat
+*.TBL

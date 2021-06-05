@@ -1,0 +1,20 @@
+{
+    "workbench.editorAssociations": [
+        {
+            "viewType": "hexEditor.hexedit",
+            "filenamePattern": "*.img"
+        },
+        {
+            "viewType": "hexEditor.hexedit",
+            "filenamePattern": "*.bin"
+        },
+        {
+            "viewType": "hexEditor.hexedit",
+            "filenamePattern": "*.sys"
+        },
+        {
+            "viewType": "hexEditor.hexedit",
+            "filenamePattern": "*.hrb"
+        }
+    ],
+}
